@@ -1,0 +1,27 @@
+{
+  "svgs": [
+    {
+      "name": "MN.svg",
+      "description": "Default simple Magnetic North SVG Arrow for use with TN.svg",
+      "Author": "charlie",
+      "License": "The Unlicense"
+    },
+    {
+      "name": "TN.svg",
+      "description": "Default simple True North SVG Line for use with MN.svg",
+      "Author": "charlie",
+      "License": "The Unlicense"
+    },
+    {
+      "name": "printer_mark.svg",
+      "description": "A target symbol intended for use with colour values to assist with print quality assurance and calibration. Intended to be overlayed with multiple values such as CYMK-100:100:100:100",
+      "samples": [
+        "samples/printer_mark_sample_cmyk.png",
+        "raw/printer_mark_full_example_cmyk.svg",
+        "raw/printer_mark_full_example_greyscale.svg"
+      ],
+      "Author": "charlie",
+      "License": "The Unlicense"
+    }
+  ]
+}
