@@ -12,4 +12,4 @@ Make a *processing* directory and save your "clean" svg there, then run paramete
 
 ## svg-registry.json
 
-File names and directory paths are commonly used as a form of metadata descriptor resulting in a horrible mess. Rather add some metadata to the registry so that other people can make sense of the purpose of your content along with info on it's function and use. Later on I may perhaps add a viewer which uses this to produce a nice visual catalog.
+File names and directory paths are commonly used as a form of metadata descriptor resulting in a horrible mess. Rather add some metadata to the registry so that other people can make sense of the purpose of your content along with info on it's function and use. Loaded as a datatable catalogue over at https://zacharlie.github.io/svg4qgis-registry/
